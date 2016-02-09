@@ -1,0 +1,46 @@
+12
+
+ 
+
+eadem res uberius exponitur. Res antem sic se habet. κατὰ τὸ στοιχοῦν idem
+est quod κατ’ ἀκολουθίαν, secundum seriem, quam illae enuntiationes faciunt,
+hoc est secundum ordinem, quo altera alteri consequitur eaque continetur. Quod
+iu Analyticis tradit hoc est. Sit A τό εἶναι ἴσον, Β τὸ μὴ εἶναι ἴσον, Γ τὸ
+εἶναι μὴ ἴσον, Δ τὸ μὴ εἶναι μὴ ἴσον. ln his igitur B consequens est τοῦ ΓΙ et
+Δ consequens τοῦ A. Deinde docet (p. 52215), si γ sit *re* εἶναι ἄνισον et δ *ro*
+μὴ εἶναι ἄνισον, item esse B consequens τοῦ γ et δ consequens τοῦ A: unde
+sequitur quod nostro loco dicit τὰ μὲν δύο (intell. Γ et Δ) πρὸς τὴν κατάφασιν
+(τό A dicit) καὶ ἀπόφασιν [τό Β intell.) ἕξει κατὰ τό στοιχοῦν (namque B con-
+sequens est τοῦ Γ et Δ consequens τοῦ A) ὡς αἱ στερήσεις (γ et δε nam B etiam
+consequeus est τοῦ γ et δ consequens τοῦ A). Ut signis mathematicis utar, est
+proportio F: B == γε Β et A: A = δι A. Namque ut Γ est antecedens τοῦΒ,
+sic etiam γ (ἡ στέρησις) antecedens est τοῦ Β, et ut Δ est consequens τοῦ A,
+sic etiam δ (ἡ στέρησις) est consequens τοῦ A. Addit vs. 24 τὰ δὲ δύο οὕε nam
+A et Β non eandem rationem habent ad Δ et Γ , quam habent δ’ et γ ad A et Γ,
+quod ut demonstremus non opus est.
+
+191225 et 30. Omnes codices habent δικαίῳ pro ἀνθρώπῳ et οὐ δικαίῳ pro οὐκ ἄν·
+θρώπῳ. Nostram lectionem in multis libris exstitisse Ammonius tradit (v. Scho-
+lia Brundisii p. 122b47). Boethius et ipse eandem hahuit et Herminum, Porphyrium
+et Alexandrum eam habuisse auctor est: unde apparet lectionem ἀνθρώπῳ et οὐκ
+ἀνθρώπῳ antiquiorem esse et iu contextum recipiendam propter ipsam difficulta-
+tem, quam habeat, si ferri possit. Alexandri auctoritas secisse videtur, utin
+codicibus nostris non reperiatur: hic enim primus eam rejecit et ita correxit, ut
+omnis difficultas sublata sit. Ammonius et Boethius alteram lectionem ita defen-
+dunt, ut utramque ferri posse dixerint, quia, quum Aristoteles exempla afferat,
+nihil intersit num legatur δικαίῳ an ἀνθρώπρυς quae quidem explicandi ratio minus
+probanda videtur propterea, quod jam vs. 20 mentio iacta est enuntiationis ἔστι
+δίκαιος ἅνθρωπος, quare vs. 25 et 30 vix cogitari licebit de alia enuntiatione, iu
+qua ἅνθρωπος sit id quod praedicetur, uon id quod orationi subjectum siit Nobis
+quidem haec alia ratione explananda videntur. Quae legimus exempla νε. 15-18
+duo terminos habebant (ἔστιν et ἅνθρωπος), in iis quae nunc proponuntur ἔστι
+tertium est quod adjicitur (προσκατηγορεῖται). Jam hos tres terminos (ἅνθρωπος,
+δίκαιος et ἔστι) non sic distinxit Aristoteles, ut nos solemus: uon dixit unum
+orationi subjectum esse, alterum praedicari, tertium copulare priores, imo de hoc
+discrimine nostro loco eum ne cogitavisse quidem ipsa verborum collocatio docet
+ἔστι δίκαιος ἄνθρωποςε nam dicendum erat ἅνθρωπος δίκαιός ἐστι vel ἅνθρωπός
+ἐστι δίκαιος, si discrimen, qnod est inter singulos enuntiationis terminos, in mente
+habuisset: apparet igitur ἔστι ab Aristotele hoc loco poni non ut copulam, sed ut
+tertiam quamcunque enuntiationis partem adjici. Quod si concedis, eadem plane
+erit ratio verbi ἔστι in iis exemplis quae habuimus vs. ¹5—18 (ἔστιν ἅνθρωπος)
+
